@@ -90,7 +90,7 @@ public class Calculator {
             }
             Double result=digits.get(0);
 
-            if(result>result.intValue()){
+            if(result!=result.intValue()){
                 return result.toString();
             }else return String.valueOf(result.intValue());
 

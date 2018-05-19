@@ -10,3 +10,7 @@ a+b=can't calculate
 3-4*2=-5
 2+3/2=3.5
 a+b=can't calculate
+1+2*2-7+6/3-2=-2
+3-4*2=-5
+2+3/2=3.5
+a+b=can't calculate
